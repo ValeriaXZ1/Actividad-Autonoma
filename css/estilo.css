@@ -1,0 +1,52 @@
+body{
+    background: url(https://img.freepik.com/foto-gratis/fondo-atardecer-cielo-pastel_53876-129041.jpg)no-repeat center center fixed;
+    background-size: cover;
+  }
+.titulo-principal{
+text-align: center;
+text-decoration: solid;
+color: #E82561;
+font-family: "Fjalla One", serif;
+font-weight: 400;
+font-style: norma;
+}
+.titulo-secundario{
+font-family: "Fjalla One", serif;
+font-weight: 400;
+font-style: norma;
+color: #0D92F4;
+
+}
+.texto-principal{
+font-family: "Fjalla One", serif;
+font-weight: 400;
+font-style: norma
+}
+.Imagen {
+    text-align: center;
+    margin: 10px auto; 
+    padding: 10px; 
+    border-radius: 10px;
+    width: 300px;
+    background-color: #f9f9f9; 
+    border: 1px solid black; 
+}
+
+.Imagen img {
+    max-width: 100%; 
+    height: auto;
+}
+.Imagendos {
+    float: left; 
+    margin-left: 20px; 
+    width: 300px; 
+}
+
+.Imagendos img {
+    max-width: 200%; 
+    height: auto; 
+    border-radius: 15px; 
+    border: 1px solid black; 
+}
+
+
